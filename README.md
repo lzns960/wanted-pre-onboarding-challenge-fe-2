@@ -4,12 +4,7 @@
 Todo 데이터와 함수들을 JSDoc를 활용하여 정의
 ## 🙋🏻‍♀️ About ME
 > 안녕하세요. 걸어다니는 Idea DB, 머릿속 상상을 실현시키는 **웹 개발자 박수지** 입니다.
-<br>
-일상의 불편함을 메모장에, 꽂히는 디자인은 갤러리에, 오늘 하루 배운 점은 velog에 매일 아이디어 데이터를 저장합니다. 
-<br>그리고 이제는 Idea DB에 저장된 데이터를 구현해 보고자 합니다.
-<br>
-
-[Notion](https://www.notion.so/Park-Suji-c2fbd2d7a87b4820b357d8d12a35eeafl) &nbsp;  [Github](https://github.com/lzns960) 
+&nbsp; [Notion](https://www.notion.so/Park-Suji-c2fbd2d7a87b4820b357d8d12a35eeafl)  &nbsp; [Github](https://github.com/lzns960) 
 
 [2023.01.28]<br>
 이번에 JSDoc를 처음 접했습니다. 
