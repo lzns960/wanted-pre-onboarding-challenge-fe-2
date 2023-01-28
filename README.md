@@ -1,7 +1,10 @@
 # 2월 챌린지, TypeScript 사전미션
 - 원티드 프리온보딩 프론트엔드 챌린지: **Todo 앱을 JSDoc으로 문서화** 하는 챌린지 과제입니다.
+
 ## 💻 About Project
 Todo 데이터와 함수들을 JSDoc를 활용하여 정의
+#### 과제 배포 주소 👉 https://lzns960.github.io/wanted-pre-onboarding-challenge-fe-2/
+
 ## 🙋🏻‍♀️ About ME
 > 안녕하세요. 걸어다니는 Idea DB, 머릿속 상상을 실현시키는 **웹 개발자 박수지** 입니다.
 &nbsp; [Notion](https://www.notion.so/Park-Suji-c2fbd2d7a87b4820b357d8d12a35eeafl)  &nbsp; [Github](https://github.com/lzns960) 
