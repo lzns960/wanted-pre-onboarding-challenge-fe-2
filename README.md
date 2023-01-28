@@ -8,8 +8,8 @@ Todo 데이터와 함수들을 JSDoc를 활용하여 정의
 일상의 불편함을 메모장에, 꽂히는 디자인은 갤러리에, 오늘 하루 배운 점은 velog에 매일 아이디어 데이터를 저장합니다. 
 <br>그리고 이제는 Idea DB에 저장된 데이터를 구현해 보고자 합니다.
 <br>
-[Notion](https://www.notion.so/Park-Suji-c2fbd2d7a87b4820b357d8d12a35eeaf)
-&nbsp; [Github](https://github.com/lzns960)
+
+[Notion](https://www.notion.so/Park-Suji-c2fbd2d7a87b4820b357d8d12a35eeafl) &nbsp;  [Github](https://github.com/lzns960) 
 
 [2023.01.28]<br>
 이번에 JSDoc를 처음 접했습니다. 
@@ -87,4 +87,4 @@ Item {
 - - -
 - [JSDoc 사용법](https://okayoon.tistory.com/entry/JSDoc%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-Javasript-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [Clean JSDoc theme](https://github.com/ankitskvmdam/clean-jsdoc-theme)
-- [jsdoc-reference] (https://typescript-kr.github.io/pages/jsdoc-reference.html)
+- [JsDoc Reference](https://typescript-kr.github.io/pages/jsdoc-reference.html)
